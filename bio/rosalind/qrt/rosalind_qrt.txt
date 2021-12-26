@@ -1,0 +1,14 @@
+Ahaetulla_politus Aix_mnemosyne Allobates_atrigularis Homopholis_buccata Lycaenopsis_macrops Margaritifera_epops Myotis_bewickii Oenanthe_flava Ovis_aegyptia Paraphysa_atrigularis Parnassius_vereda Perdix_hypomelus Phoca_gecko Platalea_amethistina Pyxicephalus_pendulinus Salamandra_citrsola
+x01x0xxxx11xxxxx
+10x1x1xxxxxxxx1x
+xxxxxx01xxxxx0xx
+xx111x11x10xxx01
+0xxxxxx01x10xxx0
+1x1x1011x0xx1xxx
+xx0x1xx10xxxxxxx
+111011xx1101xx01
+xxxx0xx01xx0x1x0
+x100001100x10000
+xxxxxx001xxxxxxx
+00xxxx0xxxxxx100
+010x001100010001

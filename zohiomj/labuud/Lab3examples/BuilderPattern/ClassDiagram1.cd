@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BuilderPattern.Builder.VehicleBuilder" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAACAAAABAAAABAAAwAAIIABAAAQAAAAAkAAAA=</HashCode>
+      <FileName>Builder\VehicleBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderPattern.ConcreteBuilders.FordExplorerBuilder" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAACAAAABAAAABAABwAAAAAAAAAQAAAAAkAAAA=</HashCode>
+      <FileName>ConcreteBuilders\FordExplorerBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderPattern.ConcreteBuilders.LincolnAviatorBuilder" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAACAAAABAAAABAABwAAAAAAAAAQAAAAAkAAAA=</HashCode>
+      <FileName>ConcreteBuilders\LincolnAviatorBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderPattern.Director.VehicleCreator" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAQAAAAABAAAAAAAAAEACAA=</HashCode>
+      <FileName>Director\VehicleCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderPattern.MainForm" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAABEAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderPattern.Program" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BuilderPattern.Product.Vehicle">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEABAAAAAAAAAEAABAgBAAAAgAA=</HashCode>
+      <FileName>Product\Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

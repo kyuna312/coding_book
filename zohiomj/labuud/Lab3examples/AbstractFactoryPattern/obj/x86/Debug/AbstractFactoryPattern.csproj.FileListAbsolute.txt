@@ -1,0 +1,28 @@
+G:\_Projects\Private\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+G:\_Projects\Private\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+G:\_Projects\Private\DesignPatterns\AbstractFactoryPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\_Projects\Private\DesignPatterns\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.exe
+G:\_Projects\Private\DesignPatterns\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.pdb
+E:\Projects\2012\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+E:\Projects\2012\DesignPatterns\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+E:\Projects\2012\DesignPatterns\AbstractFactoryPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.exe
+E:\Projects\2012\DesignPatterns\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AbstractFactoryPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.exe
+E:\Projects\2012\DesignPatterns\RealWorldExamples\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.pdb
+C:\Users\microciti\Downloads\Compressed\Creational_RealWorldExamples\Creational_RealWorldExamples\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.exe
+C:\Users\microciti\Downloads\Compressed\Creational_RealWorldExamples\Creational_RealWorldExamples\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.pdb
+C:\Users\microciti\Downloads\Compressed\Creational_RealWorldExamples\Creational_RealWorldExamples\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+C:\Users\microciti\Downloads\Compressed\Creational_RealWorldExamples\Creational_RealWorldExamples\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+C:\Users\microciti\Downloads\Compressed\Creational_RealWorldExamples\Creational_RealWorldExamples\AbstractFactoryPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\A My Folder\Lesson\2012-2013\SE305\Laboratorys\Lab2\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.exe
+D:\A My Folder\Lesson\2012-2013\SE305\Laboratorys\Lab2\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.pdb
+D:\A My Folder\Lesson\2012-2013\SE305\Laboratorys\Lab2\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+D:\A My Folder\Lesson\2012-2013\SE305\Laboratorys\Lab2\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+D:\A My Folder\Lesson\2012-2013\SE305\Laboratorys\Lab2\AbstractFactoryPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\A My Folder\Lesson\2012-2013\SE305\Laboratorys\Lab2\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.MainForm.resources
+D:\A My Folder\Lesson\2012-2013\SE305\Laboratorys\Lab2\AbstractFactoryPattern\obj\x86\Debug\AbstractFactoryPattern.csproj.GenerateResource.Cache
+D:\A My Folder\Lesson\2012-2013\SE305\Laboratorys\Lab2\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config

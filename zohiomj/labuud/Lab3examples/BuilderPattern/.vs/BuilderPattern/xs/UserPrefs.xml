@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{69B8252F-200A-47AF-BF32-E8050563CC78}|Default">
+  <MonoDevelop.Ide.ItemProperties.BuilderPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConcreteBuilders/LincolnAviatorBuilder.cs">
+    <Files>
+      <File FileName="Builder/VehicleBuilder.cs" Line="1" Column="1" />
+      <File FileName="ConcreteBuilders/FordExplorerBuilder.cs" Line="1" Column="1" />
+      <File FileName="ConcreteBuilders/LincolnAviatorBuilder.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BuilderPattern" expanded="True">
+            <Node name="BuilderPattern" expanded="True">
+              <Node name="Builder" expanded="True" />
+              <Node name="ConcreteBuilders" expanded="True">
+                <Node name="LincolnAviatorBuilder.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
