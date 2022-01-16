@@ -1,8 +1,0 @@
->Rosalind_1398
-CATCACATC
->Rosalind_8534
-GGTACAGGCG
->Rosalind_5965
-GGTCTAGTAT
->Rosalind_6847
-ACAGACCAC
